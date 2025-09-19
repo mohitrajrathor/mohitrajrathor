@@ -49,7 +49,7 @@ I am a motivated **Data Analyst, Machine Learning Engineer, and Data Scientist**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitrajrathor&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitrajrathor&theme=dark&hide_border=true" width="49%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitrajrathor&theme=dark&hide_border=true" width="49%" /> -->
 </p>
 
 <p align="center">
