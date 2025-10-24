@@ -52,19 +52,19 @@ I am a motivated **Data Analyst, Machine Learning Engineer, and Data Scientist**
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitrajrathor&theme=dark&hide_border=true" width="49%" /> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrajrathor&theme=dark&hide_border=true&layout=compact&langs_count=10" width="49%" />
   <img src="https://github-contributor-stats.vercel.app/api?username=mohitrajrathor&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="49%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitrajrathor&theme=github_dark" width="98%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitrajrathor&theme=github_dark" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitrajrathor&theme=github_dark" width="49%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitrajrathor&theme=github_dark" width="49%" />
