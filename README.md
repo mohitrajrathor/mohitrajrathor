@@ -20,11 +20,3 @@ Power BI · Docker · Git · GitHub · Swagger · Postman
 
 Portfolio: [https://mohitrajrathor.github.io/portfolio/](https://mohitrajrathor.github.io/portfolio/)
 LinkedIn: [https://www.linkedin.com/in/mohit-raj-rathor-50928a1a7/](https://www.linkedin.com/in/mohit-raj-rathor-50928a1a7/)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitrajrathor&theme=default&hide_border=true" width="50%" />
-</p>
