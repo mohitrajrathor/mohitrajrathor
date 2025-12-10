@@ -9,8 +9,8 @@ I am developing skills in **Python, SQL, PostgreSQL**, and working with **machin
 
 ## Tech Stack
 
-Python · SQL · PostgreSQL · Pandas · NumPy · scikit-learn · Matplotlib · Seaborn
-Power BI · Docker · Git · GitHub · Swagger · Postman
+Python · Java · Typescript · Vue.js · SQL · PostgreSQL · Pandas · NumPy · scikit-learn · TansorFlow · PyTourch · Matplotlib · Seaborn
+Power BI · Docker · Git
 
 ## Socials
 
