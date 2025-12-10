@@ -2,7 +2,7 @@
 
 I am a learner in **Data Analysis, Machine Learning, and Data Science**, currently building strong skills in programming, data handling, and applied ML. I recently completed my **Diploma in Data Science and Programming** and am actively seeking internship opportunities to gain real-world experience.
 
-I am developing skills in **Python, SQL, PostgreSQL**, and working with **machine learning, deep learning, NLP, and data visualization**. I also have hands-on experience with **Power BI, Docker, Swagger, Postman, and DVC** through projects and practice.
+I am developing skills in **Python, SQL, PostgreSQL**, and working with **machine learning, deep learning, NLP, and data visualization**. I also have hands-on experience with **Power BI, Docker** through projects and practice.
 
 **Current focus:** MLOps, deep learning, and software testing
 **Projects:** AutoLLMAgent (LLM automation), flood prediction model, quantitative stock analysis
