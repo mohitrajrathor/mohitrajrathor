@@ -1,11 +1,11 @@
 # About Me
 
-I am a **Data Analyst and Machine Learning Engineer** with a strong foundation in programming, data science, and applied machine learning. I recently completed my **Diploma in Data Science and Programming** and am looking for internship opportunities to work on real-world projects.
+I am a learner in **Data Analysis, Machine Learning, and Data Science**, currently building strong skills in programming, data handling, and applied ML. I recently completed my **Diploma in Data Science and Programming** and am actively seeking internship opportunities to gain real-world experience.
 
-I work with **Python, SQL, PostgreSQL**, and have experience in **machine learning, deep learning, NLP, and data visualization**. I also use tools like **Power BI, Docker, Swagger, Postman, and DVC**.
+I am developing skills in **Python, SQL, PostgreSQL**, and working with **machine learning, deep learning, NLP, and data visualization**. I also have hands-on experience with **Power BI, Docker, Swagger, Postman, and DVC** through projects and practice.
 
-**Current focus:** MLOps, advanced deep learning, and software testing
-**Projects:** AutoLLMAgent for CI pipeline automation, flood prediction model, quantitative stock analysis
+**Current focus:** MLOps, deep learning, and software testing
+**Projects:** AutoLLMAgent (LLM automation), flood prediction model, quantitative stock analysis
 
 ## Tech Stack
 
