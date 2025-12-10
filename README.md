@@ -7,14 +7,10 @@ I work with **Python, SQL, PostgreSQL**, and have experience in **machine learni
 **Current focus:** MLOps, advanced deep learning, and software testing
 **Projects:** AutoLLMAgent for CI pipeline automation, flood prediction model, quantitative stock analysis
 
----
-
 ## Tech Stack
 
 Python · SQL · PostgreSQL · Pandas · NumPy · scikit-learn · Matplotlib · Seaborn
 Power BI · Docker · Git · GitHub · Swagger · Postman
-
----
 
 ## Socials
 
