@@ -1,18 +1,62 @@
-# About Me
+<div align="center">
 
-I am a learner in **Data Analysis, Machine Learning, and Data Science**, currently building strong skills in programming, data handling, and applied ML. I recently completed my **Diploma in Data Science and Programming** and am actively seeking internship opportunities to gain real-world experience.
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   building AI agents that think, reason & act.           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-I am developing skills in **Python, SQL, PostgreSQL**, and working with **machine learning, deep learning, NLP, and data visualization**. I also have hands-on experience with **Power BI, Docker** through projects and practice.
+# Mohit Raj Rathore
 
-**Current focus:** MLOps, deep learning, and software testing
-**Projects:** AutoLLMAgent (LLM automation), flood prediction model, quantitative stock analysis
+**`AI/ML Engineer · LLM Systems · Agentic AI`**
 
-## Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitrajrathor)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mohitrajrathor.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitrajrathor@gmail.com)
 
-Python · Java · Typescript · Vue.js · SQL · PostgreSQL · Pandas · NumPy · scikit-learn · TansorFlow · PyTourch · Matplotlib · Seaborn
-Power BI · Docker · Git
+</div>
 
-## Socials
+---
 
-Portfolio: [https://mohitrajrathor.github.io/portfolio/](https://mohitrajrathor.github.io/portfolio/)
-LinkedIn: [https://www.linkedin.com/in/mohit-raj-rathor-50928a1a7/](https://www.linkedin.com/in/mohit-raj-rathor-50928a1a7/)
+```python
+mohit = {
+    "currently"  : "Final year · BS Data Science & Applications",
+    "building"   : ["Agentic AI systems", "LLM pipelines", "RAG applications"],
+    "stack"      : ["Python", "PyTorch", "HuggingFace", "LangChain", "AWS", "GCP"],
+    "looking_for": "Full-time AI/ML roles · Open to internships",
+    "status"     : "🟢 Available",
+}
+```
+
+---
+
+## ⚡ Selected Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 **BiCopilot** | Ask questions on your data — RAG + sandboxed code execution | LLMs · RAG · Python |
+| ⚖️ **Vidhi AI** | Legal documents made simple for everyone | LLMs · NLP · RAG |
+| 📞 **Telephony SaaS Agent** | Autonomous voice agent for sales & lead gen | Agentic AI · Voice AI |
+| 🔬 **LLM Fine-tuning** | Domain-adapted lightweight LLMs | PyTorch · HuggingFace |
+
+---
+
+## 🛠 Stack
+
+```
+Language   │ Python
+Frameworks │ PyTorch · TensorFlow · HuggingFace Transformers
+LLM / AI   │ Fine-tuning · RAG · Agentic AI · Prompt Engineering
+Cloud      │ AWS · GCP
+Data       │ Pandas · Polars
+```
+
+---
+
+<div align="center">
+
+*Open to AI/ML roles where I can build from day one — not just learn.*
+
+</div>
